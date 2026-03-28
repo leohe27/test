@@ -51,22 +51,22 @@ To intuitively illustrate the divergence in audience reception, the analysis res
 
 | 🎵 Douyin | 📕 Xiaohongshu |
 | :---: | :---: |
-| ![Proportion Douyin](Proportion%20of%20Sentiment%20Categories%20-%20Douyin.png) | ![Proportion Xiaohongshu](Images/Proportion%20of%20Sentiment%20Categories%20-%20Xiaohongshu.png) |
+| ![Proportion Douyin](images/Proportion%20of%20Sentiment%20Categories%20-%20Douyin.png) | ![Proportion Xiaohongshu](images/Proportion%20of%20Sentiment%20Categories%20-%20Xiaohongshu.png) |
 
 ### 📌 4.2 Counts & Distribution of Sentiment Scores
 *Observation: Cross-validation through bar charts and histograms further confirms that Douyin's emotional inclination is significantly "left-skewed" (Negative), while Xiaohongshu is "centered" (Neutral).*
 
 | 🎵 Douyin | 📕 Xiaohongshu |
 | :---: | :---: |
-| ![Count Douyin](Images/Count%20of%20Sentiment%20Categories%20-%20Douyin.png) | ![Count Xiaohongshu](Images/Count%20of%20Sentiment%20Categories%20-%20Xiaohongshu.png) |
-| ![Score Douyin](Distribution%20of%20Sentiment%20Scores%20-%20Douyin.png) | ![Score Xiaohongshu](Images/Distribution%20of%20Sentiment%20Scores%20-%20Xiaohongshu.png) |
+| ![Count Douyin](images/Count%20of%20Sentiment%20Categories%20-%20Douyin.png) | ![Count Xiaohongshu](images/Count%20of%20Sentiment%20Categories%20-%20Xiaohongshu.png) |
+| ![Score Douyin](images/Distribution%20of%20Sentiment%20Scores%20-%20Douyin.png) | ![Score Xiaohongshu](images/Distribution%20of%20Sentiment%20Scores%20-%20Xiaohongshu.png) |
 
 ### 📌 4.3 Word Cloud of Adjectives
 *Observation: Word clouds reveal the specific triggers behind the emotions—what exactly are netizens discussing?*
 
 | 🎵 Douyin | 📕 Xiaohongshu |
 | :---: | :---: |
-| ![Word Cloud Douyin](Images/Word%20Cloud%20of%20Adjectives%20in%20Comments%20-%20Douyin.png) | ![Word Cloud Xiaohongshu](Images/Word%20Cloud%20of%20Adjectives%20in%20Comments%20-Xiaohongshu.png) |
+| ![Word Cloud Douyin](images/Word%20Cloud%20of%20Adjectives%20in%20Comments%20-%20Douyin.png) | ![Word Cloud Xiaohongshu](images/Word%20Cloud%20of%20Adjectives%20in%20Comments%20-Xiaohongshu.png) |
 
 ---
 
