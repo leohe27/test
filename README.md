@@ -15,13 +15,13 @@ The primary objective is to collect, clean, and analyze user comments across two
 ## 🗂️ 2. Repository Structure
 The project is organized as follows to ensure reproducibility and clear data flows:
 
-    ├── Data/
+    ├── data/
     │   ├── douyin2.xlsx                                      # Raw scraped comments from Douyin
     │   └── xiaohongshu2.xlsx                                 # Raw scraped comments from Xiaohongshu
-    ├── Notebooks/
+    ├── notebooks/
     │   ├── 刘强东送外卖舆情分析_抖音.ipynb                   # Source code for Douyin analysis
     │   └── 刘强东送外卖舆情分析_小红书.ipynb                 # Source code for Xiaohongshu analysis
-    ├── Images/
+    ├── images/
     │   ├── Count of Sentiment Categories - Douyin.png
     │   ├── Count of Sentiment Categories - Xiaohongshu.png
     │   ├── Distribution of Sentiment Scores - Douyin.png
