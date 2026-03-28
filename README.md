@@ -81,3 +81,9 @@ Through rigorous data comparison, this project yielded the following core conclu
 ### ⚖️ Ethical Considerations
 * **Technical Limitations:** Although AI NLP models significantly improve analysis efficiency, they still face risks of misjudgment when dealing with complex internet slang, sarcasm, and rhetorical nuances.
 * **The Necessity of Human Insight:** Data only provides phenomena; it does not provide explanations. In this project, sociological theories and communication perspectives gave the raw data its true value. Technology should serve professional judgment, not replace humanistic gatekeeping.
+
+## 🚀 6. Future Work
+To further deepen this research and expand its analytical dimensions, the following areas can be explored in future iterations:
+
+* **Expanded Multi-Platform Analysis:** Extend the data collection to include other major social networks such as **Weibo** (news and text-centric) and **Bilibili** (long-form video, younger demographic) to construct a more holistic map of Chinese public opinion.
+* **Geospatial Sentiment Analysis (IP Location):** Leverage the IP address location tags associated with user comments to conduct regional analysis. This will help determine if sentiment correlates with geographic locations, mapping out how coastal vs. inland provinces, or tier-1 vs. tier-3 cities, react differently to corporate events.
