@@ -58,7 +58,7 @@ To intuitively illustrate the divergence in audience reception, the analysis res
 
 | 🎵 Douyin | 📕 Xiaohongshu |
 | :---: | :---: |
-| ![Count Douyin](Count%20of%20Sentiment%20Categories%20-%20Douyin.png) | ![Count Xiaohongshu](Images/Count%20of%20Sentiment%20Categories%20-%20Xiaohongshu.png) |
+| ![Count Douyin](Images/Count%20of%20Sentiment%20Categories%20-%20Douyin.png) | ![Count Xiaohongshu](Images/Count%20of%20Sentiment%20Categories%20-%20Xiaohongshu.png) |
 | ![Score Douyin](Distribution%20of%20Sentiment%20Scores%20-%20Douyin.png) | ![Score Xiaohongshu](Images/Distribution%20of%20Sentiment%20Scores%20-%20Xiaohongshu.png) |
 
 ### 📌 4.3 Word Cloud of Adjectives
@@ -66,7 +66,7 @@ To intuitively illustrate the divergence in audience reception, the analysis res
 
 | 🎵 Douyin | 📕 Xiaohongshu |
 | :---: | :---: |
-| ![Word Cloud Douyin](Word%20Cloud%20of%20Adjectives%20in%20Comments%20-%20Douyin.png) | ![Word Cloud Xiaohongshu](Word%20Cloud%20of%20Adjectives%20in%20Comments%20-Xiaohongshu.png) |
+| ![Word Cloud Douyin](Images/Word%20Cloud%20of%20Adjectives%20in%20Comments%20-%20Douyin.png) | ![Word Cloud Xiaohongshu](Images/Word%20Cloud%20of%20Adjectives%20in%20Comments%20-Xiaohongshu.png) |
 
 ---
 
